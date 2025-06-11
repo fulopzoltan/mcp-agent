@@ -1,4 +1,4 @@
-To build the project run `pnpm build`
+To build the project run `pnpm install` and then `pnpm build`
 
 After you have downloaded Claude Desktop (or any LLM that supports tooling), in the claude_desktop_config.json you need to link your server like this
 ```
